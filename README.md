@@ -161,7 +161,7 @@ controllers:
 
   Comment:
     show:
-      render: comment.show with:show
+      render: comment.show with:comment
 
   # additional controller...
 ```
